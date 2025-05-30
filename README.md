@@ -1,4 +1,4 @@
 # JS Fundamentals
 
-This repo contains basic JavaScript exercises, synced with GitHub.
+This repo contains basic JavaScript exercises
 
